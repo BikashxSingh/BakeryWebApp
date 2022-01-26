@@ -6,3 +6,4 @@
 #Import sql file OR Create database
 #Composer update command
 #setting local development site lik bakery.test
+#get .env from me at gmail bs700288@gmail.com

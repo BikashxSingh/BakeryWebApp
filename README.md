@@ -72,8 +72,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Diwash Ale - diwasx@gmail.com
+Bikash Singh - bs700288@gmail.com
+Nischal Hada
 
-Project Link: [https://github.com/diwasx/bakery](https://github.com/diwasx/bakery)
+Project Link: [https://github.com/bikashxsingh/bakery](https://github.com/bikashxsingh/bakery)
 
 
 <!-- ACKNOWLEDGEMENTS -->
