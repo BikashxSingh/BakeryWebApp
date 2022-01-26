@@ -1,0 +1,8 @@
+#Use /register to create admin account at first
+#only admin can create other staff account
+#o.id = order id
+#c.id = cake id
+
+#Import sql file OR Create database
+#Composer update command
+#setting local development site lik bakery.test
